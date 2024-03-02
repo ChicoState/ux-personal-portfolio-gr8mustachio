@@ -1,3 +1,4 @@
+__IMPORTANT! Contributions can be found in assets folder__
 # UX Portfolio
 
 About me...
