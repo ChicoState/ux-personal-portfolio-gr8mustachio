@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Unneccisary WMS Restrictions](j01/j01.md)
+[Unnecessary WMS Restrictions](j01/j01.md)
